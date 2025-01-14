@@ -1,7 +1,5 @@
 import pandas as pd
 
-import pandas as pd
-
 def format_registro():
     # Leggi il file CSV
     df = pd.read_csv('../input_data/Export_registro.csv')
