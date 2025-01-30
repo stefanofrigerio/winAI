@@ -143,5 +143,5 @@ class WineCrawler:
 if __name__ == "__main__":
     print("=== INIZIO CRAWLING ===")
     crawler = WineCrawler()
-    crawler.process_grapes(limit=10)  # Processa i primi 10 vitigni
+    crawler.process_grapes(limit=1000)  # Processa i primi 10 vitigni
     print("=== CRAWLING COMPLETATO ===")

@@ -2,3 +2,5 @@ pandas~=2.2.3
 firebase-admin
 BeautifulSoup4
 bs4
+sqlalchemy
+openai

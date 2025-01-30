@@ -1,0 +1,649 @@
+tasting_grape,colour,grape,document_id,known_also_as
+"Il vino che si ottiene dal vitigno Abbuoto è di colore Rosso porpora . Al palato è Fruttato , Speziato , armonico , di medio corpo , tannico .",N,ABBUOTO,abbuoto,
+"Il vino che si ottiene dal vitigno Abrusco è di colore Rosso rubino . Al palato è Fruttato , fine , persistente .",N,ABRUSCO,abrusco,
+"Il vino che si ottiene dal vitigno Aglianico è di colore Rosso rubino . Al palato è Fruttato , Rosso rubino , fresco , tannico , di corpo .",N,AGLIANICO,aglianico,"['(266) AGLIANICO DEL VULTURE N.', 'GLIANICA', 'GLIANICO', 'ELLANICO', 'ELLENICO']"
+"Il vino che si ottiene dal vitigno Aglianico del Vulture è di colore Rosso rubino . Al palato è Fruttato , Speziato , tannico , di corpo .",N,AGLIANICO DEL VULTURE,aglianico_del_vulture,['(002) AGLIANICO N.']
+"Il vino che si ottiene dal vitigno Aglianicone è di colore Rosso rubino , Foxy . Al palato è Fruttato , sapido , tannico , di corpo .",N,AGLIANICONE,aglianicone,
+,,AGOSTINA,agostina,
+"Il vino che si ottiene dal vitigno Albana è di colore Giallo dorato . Al palato è Fruttato , fresco , morbido .",B,ALBANA,albana,
+,,ALBANA ROSA Rs.,albana_rosa_rs_,
+"Il vino che si ottiene dal vitigno Albanello è di colore Giallo paglierino , Giallo dorato . Al palato è Fruttato , Consistente .",B,ALBANELLO,albanello,
+,B,ALBARANZEULI BIANCO,albaranzeuli_bianco,
+,N,ALBARANZEULI NERO,albaranzeuli_nero,
+"Il vino che si ottiene dal vitigno Albariño (Alvarinho) è di colore Giallo verdolino . Al palato è sapido , fresco , Fruttato , Minerale .",B,ALBARINO,albarino,
+"Il vino che si ottiene dal vitigno Albarola è di colore Giallo paglierino . Al palato è Fruttato , Erbaceo .",B,ALBAROLA,albarola,['(26) BIANCHETTA GENOVESE B.']
+"Il vino che si ottiene dal vitigno Albarossa è di colore Rosso rubino . Al palato è Fruttato , Speziato , tannico , di corpo .",N,ALBAROSSA,albarossa,
+"Il vino che si ottiene dal vitigno Aleatico è di colore Rosso rubino . Al palato è Fruttato , morbido , caldo .",N,ALEATICO,aleatico,
+,,ALFROCHEIRO,alfrocheiro,
+"Il vino che si ottiene dal vitigno Alicante è di colore Rosso rubino . Al palato è Fruttato , secco , Fragrante , di corpo .",N,ALICANTE,alicante,"['(51)CANNONAU N.', '(236) TOCAI ROSSO N.', 'CANNONAO', 'GARNACHA TINTA', 'GRANACCIA', 'GRENACHE', 'GUARNACCIA', 'GAMAY']"
+"Il vino che si ottiene dal vitigno Alicante Bouschet è di colore Rosso rubino . Al palato è Fruttato , abbastanza complesso , abbastanza intenso .",N,ALICANTE bOUSCHET,alicante_bouschet,
+"Il vino che si ottiene dal vitigno Alionza è di colore Giallo paglierino . Al palato è Fruttato , abbastanza fresco , abbastanza sapido .",B,ALIONZA,alionza,
+,B,ALVAREGA,alvarega,
+"Il vino che si ottiene dal vitigno Ancellotta è di colore Rosso rubino . Al palato è Fruttato , morbido , poco tannico .",N,ANCELLOTTA,ancellotta,['LANCELLOTTA']
+,B,ANIGA BRAGIA,aniga_bragia,
+"Il vino che si ottiene dal vitigno Ansonica è di colore Giallo verdolino . Al palato è Fruttato , Erbaceo , fresco .",B,ANSONICA,ansonica,"['INZOLIA', 'INSOLIA']"
+,B,ANTINELLO,antinello,
+,B,ARGU MANNU,argu_mannu,
+,N,ARINARNOA,arinarnoa,
+"Il vino che si ottiene dal vitigno Arinto è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",,ARINTO,arinto,
+"Il vino che si ottiene dal vitigno Arneis è di colore Giallo paglierino . Al palato è fresco , Fruttato , Floreale .",B,ARNEIS,arneis,
+,B,ARVESINIADU,arvesiniadu,
+,B,ASPRINIO BIANCO,asprinio_bianco,['(097) GRECO B.']
+"Il vino che si ottiene dal vitigno Assyrtiko è di colore Giallo dorato . Al palato è sapido , fresco , Minerale .",,ASSYRTIKO,assyrtiko,
+"Il vino che si ottiene dal vitigno Avanà è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,AVANA',avana_,
+"Il vino che si ottiene dal vitigno Avarengo è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,AVARENGO,avarengo,
+"Il vino che si ottiene dal vitigno Baratuciat è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,BARATUCIAT,baratuciat,
+"Il vino che si ottiene dal vitigno Barbera è di colore Rosso rubino . Al palato è Floreale , Speziato , di corpo .",N,BARBERA,barbera,
+"Il vino che si ottiene dal vitigno Barbera bianca è di colore Giallo paglierino . Al palato è Fruttato , sapido .",B,BARBERA BIANCA,barbera_bianca,
+,N,BARBERA SARDA,barbera_sarda,
+"Il vino che si ottiene dal vitigno Barsaglina è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,BARSAGLINA,barsaglina,['MASSARETTA']
+"Il vino che si ottiene dal vitigno Bastardo è di colore Rosso rubino . Al palato è Fruttato , caldo , tannico .",,BASTARDO,bastardo,
+"Il vino che si ottiene dal vitigno Becuet è di colore Rosso rubino con riflessi granati . Al palato è Fruttato , abbastanza tannico , abbastanza morbido , persistente .",N,BECUET,becuet,
+,N,BELLAGNA,bellagna,['UVA CAGNA']
+"Il vino che si ottiene dal vitigno Bellone è di colore Giallo paglierino . Al palato è Fruttato , Minerale .",B,BELLONE,bellone,['CACCHIONE']
+,N,BENEDINA,benedina,
+"Il vino che si ottiene dal vitigno Bervedino è di colore Giallo dorato , Foxy . Al palato è sapido , Fruttato , fresco .",B,BERVEDINO,bervedino,['(261) VERNACCIA DI S. GIMIGNANO B.']
+,B,BIAN VER,bian_ver,['VERDESSE B.']
+,B,BIANCA ADDOSA,bianca_addosa,
+,B,BIANCA REMUNGIA,bianca_remungia,
+,B,BIANCACCIA,biancaccia,
+"Il vino che si ottiene dal vitigno Biancame è di colore Giallo paglierino . Al palato è Fruttato , Speziato , fresco .",B,BIANCAME,biancame,"['(244) TREBBIANO TOSCANO B.', 'BIANCHELLO']"
+"Il vino che si ottiene dal vitigno Bianchetta Genovese è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,BIANCHETTA GENOVESE,bianchetta_genovese,['(8) ALBAROLA B.']
+"Il vino che si ottiene dal vitigno Bianchetta Trevigiana è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,BIANCHETTA TREVIGIANA,bianchetta_trevigiana,
+,B,BIANCO D'ALESSANO,bianco_d_alessano,
+"Il vino che si ottiene dal vitigno Biancolella è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,BIANCOLELLA,biancolella,"['JANCULILLO', 'JANCULELLA']"
+,B,BIANCONE,biancone,
+,B,BIGOLONA,bigolona,
+,B,BIONDELLO,biondello,
+,B,BLATTERLE,blatterle,
+"Il vino che si ottiene dal vitigno Bombino bianco è di colore Giallo paglierino . Al palato è Fruttato , Minerale .",B,BOMBINO BIANCO,bombino_bianco,"['OTTENESE', 'BOMBINO', 'BONVINO']"
+"Il vino che si ottiene dal vitigno Bombino nero è di colore Rosso rubino . Al palato è Aromatico , tannico , di corpo .",N,BOMBINO NERO,bombino_nero,"['BOMBINO', 'BONVINO']"
+"Il vino che si ottiene dal vitigno Bonamico è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,BONAMICO,bonamico,
+"Il vino che si ottiene dal vitigno Bonarda è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,BONARDA,bonarda,['UVA RARA']
+,N,BONDA,bonda,
+"Il vino che si ottiene dal vitigno Boschera è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,BOSCHERA,boschera,
+"Il vino che si ottiene dal vitigno Bosco è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,BOSCO,bosco,
+"Il vino che si ottiene dal vitigno Bovale è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,BOVALE,bovale,['BOVALEDDU']
+"Il vino che si ottiene dal vitigno Bovale grande è di colore Rosso rubino . Al palato è caldo , di corpo , morbido .",N,BOVALE GRANDE,bovale_grande,"['(054) CARIGNANO N.', 'BOVALE DI SPAGNA', 'BOVALE', '(164) NERELLO CAPPUCCIO N.']"
+"Il vino che si ottiene dal vitigno Bracciola nera è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,BRACCIOLA NERA,bracciola_nera,
+"Il vino che si ottiene dal vitigno Brachetto è di colore Rosso rubino . Al palato è Fruttato , Aromatico .",N,BRACHETTO,brachetto,
+,N,BRAGAT ROSA,bragat_rosa,
+,,BREPONA,brepona,
+,N,BRETTIO NERO,brettio_nero,
+,N,BRIC,bric,
+"Il vino che si ottiene dal vitigno Bronner è di colore Giallo paglierino . Al palato è fresco , Fruttato , Minerale .",B,BRONNER,bronner,
+"Il vino che si ottiene dal vitigno Bussanello è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,BUSSANELLO,bussanello,
+,B,CABERNET BLANC,cabernet_blanc,
+,N,CABERNET CARBON,cabernet_carbon,
+,N,CABERNET CORTIS,cabernet_cortis,
+,N,CABERNET EIDOS,cabernet_eidos,['UD-58.083']
+"Il vino che si ottiene dal vitigno Cabernet Franc è di colore Rosso rubino . Al palato è Erbaceo , Fruttato , tannico , di corpo .",N,CABERNET FRANC,cabernet_franc,['CABERNET']
+"Il vino che si ottiene dal vitigno Cabernet Sauvignon è di colore Rosso rubino . Al palato è caldo , di corpo , Fruttato , Erbaceo .",N,CABERNET SAUVIGNON,cabernet_sauvignon,['CABERNET']
+,N,CABERNET VOLOS,cabernet_volos,['UD-32.078']
+,N,CABERTIN,cabertin,
+,N,CABRUSINA,cabrusina,
+"Il vino che si ottiene dal vitigno Caddiu è di colore Rosso rubino . Al palato è caldo , Fruttato , Speziato .",N,CADDIU,caddiu,
+"Il vino che si ottiene dal vitigno Cagnulari è di colore Rosso rubino . Al palato è caldo , morbido , Fruttato , Balsamico , complesso .",N,CAGNULARI,cagnulari,['CAGNIULARI']
+"Il vino che si ottiene dal vitigno Calabrese è di colore Rosso rubino . Al palato è caldo , Fruttato , Speziato .",N,CALABRESE,calabrese,"[""NERO D'AVOLA""]"
+,N,CALORIA,caloria,
+,N,CAMAIOLA,camaiola,
+"Il vino che si ottiene dal vitigno Canaiolo bianco è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,CANAIOLO BIANCO,canaiolo_bianco,"['DRUPEGGIO', 'CANAIOLO']"
+"Il vino che si ottiene dal vitigno Canaiolo nero è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,CANAIOLO NERO,canaiolo_nero,
+,,CANAIOLO ROSA Rs.,canaiolo_rosa_rs_,
+"Il vino che si ottiene dal vitigno Canina nera è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,CANINA NERA,canina_nera,
+"Il vino che si ottiene dal vitigno Cannonau è di colore Rosso rubino . Al palato è Fruttato , Speziato , di corpo .",N,CANNONAU,cannonau,"['(10) ALICANTE N.', '(236) TOCAI ROSSO N.', 'GARNACHA TINTA', 'GRANACCIA', 'GRENACHE', 'CANNONAO', 'GAMAY']"
+"Il vino che si ottiene dal vitigno Capolongo è di colore Giallo paglierino . Al palato è Fruttato , Speziato , di medio corpo .",B,CAPOLONGO,capolongo,
+"Il vino che si ottiene dal vitigno Caprettone è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,CAPRETTONE,caprettone,
+,B,CARICA L'ASINO,carica_l_asino,
+"Il vino che si ottiene dal vitigno Caricagiola è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,CARICAGIOLA,caricagiola,
+"Il vino che si ottiene dal vitigno Carignano è di colore Rosso rubino . Al palato è Fruttato , Erbaceo , caldo , persistente .",N,CARIGNANO,carignano,"['(037) BOVALE GRANDE N.', '(164) NERELLO CAPPUCCIO N.']"
+"Il vino che si ottiene dal vitigno Carmènere è di colore Rosso rubino . Al palato è caldo , Erbaceo , tannico .",N,CARMENERE,carmenere,"['CABERNET NOSTRANO', 'CABERNET ITALIANO', 'CABERNET']"
+"Il vino che si ottiene dal vitigno Carricante è di colore Giallo paglierino . Al palato è Erbaceo , Fragrante , Floreale .",B,CARRICANTE,carricante,
+,B,CARRIERI,carrieri,
+"Il vino che si ottiene dal vitigno Casavecchia è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,CASAVECCHIA,casavecchia,
+"Il vino che si ottiene dal vitigno Casetta è di colore Rosso rubino . Al palato è Fruttato , Erbaceo , tannico .",N,CASETTA,casetta,
+,,CASSINA,cassina,
+,,CASTAGNARA,castagnara,
+"Il vino che si ottiene dal vitigno Castelão è di colore Rosso rubino . Al palato è Fruttato , intenso , di corpo , tannico .",,CASTELAO,castelao,
+"Il vino che si ottiene dal vitigno Castiglione è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo , tannico .",N,CASTIGLIONE,castiglione,
+"Il vino che si ottiene dal vitigno Catalanesca è di colore Giallo paglierino , Foxy . Al palato è Fruttato , Floreale , sapido .",B,CATALANESCA,catalanesca,
+,N,CATANESE NERO,catanese_nero,
+"Il vino che si ottiene dal vitigno Catarratto bianco comune è di colore Giallo paglierino . Al palato è Floreale , sapido , fresco .",B,CATARRATTO BIANCO COMUNE,catarratto_bianco_comune,"['CATARRATTO', 'LUCIDO']"
+"Il vino che si ottiene dal vitigno Catarratto bianco lucido è di colore Giallo paglierino , Foxy . Al palato è Fruttato , Floreale , sapido .",B,CATARRATTO BIANCO LUCIDO,catarratto_bianco_lucido,['CATARRATTO  LUCIDO']
+,B,CAVECIA,cavecia,
+"Il vino che si ottiene dal vitigno Cavrara è di colore Rosso rubino . Al palato è Fruttato , caldo , di corpo .",N,CAVRARA,cavrara,
+,B,CELTICA,celtica,
+"Il vino che si ottiene dal vitigno Centesimino è di colore Rosso rubino . Al palato è fresco , Floreale , Speziato , tannico .",N,CENTESIMINO,centesimino,
+"Il vino che si ottiene dal vitigno Cesanese comune è di colore Rosso rubino . Al palato è Fruttato , tannico .",N,CESANESE COMUNE,cesanese_comune,['CESANESE']
+,N,CESANESE D AFFILE,cesanese_d_affile,
+,N,CESENESE NERO,cesenese_nero,
+"Il vino che si ottiene dal vitigno Chardonnay è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,CHARDONNAY,chardonnay,
+,B,CHARVIR,charvir,['F23P65 B.']
+,B,CHASSELAS DORATO,chasselas_dorato,
+"Il vino che si ottiene dal vitigno Chatus è di colore Rosso rubino . Al palato è Fruttato , Floreale , di corpo .",N,CHATUS,chatus,
+"Il vino che si ottiene dal vitigno Chenin blanc è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,CHENIN,chenin,
+,B,CIGLIOLA BIANCA,cigliola_bianca,['UVA ATTINA']
+"Il vino che si ottiene dal vitigno Ciliegiolo è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,CILIEGIOLO,ciliegiolo,['MORETTONE']
+,B,CIVIDIN,cividin,
+,N,CJANORIE,cjanorie,
+"Il vino che si ottiene dal vitigno Clairette è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,CLAIRETTE,clairette,
+"Il vino che si ottiene dal vitigno Cococciola è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,COCOCCIOLA,cococciola,
+,,COCOZZA,cocozza,
+,,CODA DI PECORA BIANCA,coda_di_pecora_bianca,
+,B,CODA DI VOLPE BIANCA,coda_di_volpe_bianca,['CODA DI VOLPE']
+,B,CODRONISCA,codronisca,
+,N,COLATAMURRO,colatamurro,
+,N,COLOMBANA NERA,colombana_nera,
+"Il vino che si ottiene dal vitigno Colorino è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,COLORINO,colorino,
+"Il vino che si ottiene dal vitigno Corbina è di colore Rosso rubino . Al palato è Fruttato , di corpo , tannico .",N,CORBINA,corbina,['CORBINELLA']
+,N,CORDENOSSA,cordenossa,
+"Il vino che si ottiene dal vitigno Corinto nero è di colore Rosso rubino . Al palato è Fruttato , Speziato , tannico , persistente .",N,CORINTO NERO,corinto_nero,
+,N,CORNACCHIA,cornacchia,
+"Il vino che si ottiene dal vitigno Cornalin è di colore Rosa tenue . Al palato è Erbaceo , Speziato , tannico .",,CORNALIN,cornalin,
+,N,CORNAREA,cornarea,
+"Il vino che si ottiene dal vitigno Cortese è di colore Giallo paglierino . Al palato è fresco , Minerale , Fruttato .",B,CORTESE,cortese,['BIANCA FERNANDA']
+"Il vino che si ottiene dal vitigno Corvina è di colore Rosso rubino . Al palato è caldo , Fruttato , tannico .",N,CORVINA,corvina,['CRUINA']
+"Il vino che si ottiene dal vitigno Corvinone è di colore Rosso rubino . Al palato è caldo , Fruttato , tannico .",N,CORVINONE,corvinone,
+,B,COVE',cove_,
+,B,CRANACCIA ARUSSA,cranaccia_arussa,
+"Il vino che si ottiene dal vitigno Croatina è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,CROATINA,croatina,['BONARDA']
+,N,CROVASSA,crovassa,
+,B,CUCCUAU,cuccuau,
+"Il vino che si ottiene dal vitigno Damaschino è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,DAMASCHINO,damaschino,['VUJINO']
+"Il vino che si ottiene dal vitigno Dindarella è di colore Rosso rubino . Al palato è Fruttato , Speziato , tannico .",N,DINDARELLA,dindarella,
+"Il vino che si ottiene dal vitigno Diolinoir è di colore Rosso rubino . Al palato è tannico , di corpo .",N,DIOLINOIR,diolinoir,
+"Il vino che si ottiene dal vitigno Dolcetto è di colore Rosso rubino . Al palato è secco , morbido , Fruttato .",N,DOLCETTO,dolcetto,['ORMEASCO']
+,B,DOLCIAME,dolciame,
+"Il vino che si ottiene dal vitigno Dorona è di colore Giallo paglierino . Al palato è intenso , complesso , Fruttato .",B,DORONA,dorona,['(276) Incrocio Bianco FEDIT 51 C.S.G. B.']
+,B,DORONADU,doronadu,
+,N,DOUX D'HENRY,doux_d_henry,
+,N,DURASA,durasa,
+"Il vino che si ottiene dal vitigno Durella è di colore Giallo paglierino . Al palato è Fruttato , fresco , caratteristico .",B,DURELLA,durella,['DURELLO']
+,N,ELMO,elmo,
+"Il vino che si ottiene dal vitigno Erbaluce è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,ERBALUCE,erbaluce,
+"Il vino che si ottiene dal vitigno Erbamat è di colore Giallo paglierino . Al palato è acidulo , sapido , Fruttato , Erbaceo .",B,ERBAMAT,erbamat,['(401) VERDEALBARA B.']
+,N,ERBANNO,erbanno,['(224) SCHIAVA N.']
+"Il vino che si ottiene dal vitigno Ervi è di colore Rosso rubino . Al palato è intenso , Fruttato , Speziato , morbido , caldo , abbastanza tannico .",N,ERVI,ervi,
+"Il vino che si ottiene dal vitigno Falanghina è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,FALANGHINA,falanghina,
+"Il vino che si ottiene dal vitigno Famoso è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,FAMOSO,famoso,
+"Il vino che si ottiene dal vitigno Favorita è di colore . Al palato è fresco , sapido .",B,FAVORITA,favorita,"['(190) PIGATO B.', '(259) VERMENTINO B.']"
+"Il vino che si ottiene dal vitigno Fenile è di colore Giallo paglierino . Al palato è abbastanza intenso , di medio corpo , fresco .",B,FENILE,fenile,
+"Il vino che si ottiene dal vitigno Fernão Pires è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",,FERNAO  PIRES,fernao__pires,
+"Il vino che si ottiene dal vitigno Fernão Pires è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",,FERNAO PIRES,fernao_pires,
+,N,FERTILIA,fertilia,
+,N,FESTASIO,festasio,
+"Il vino che si ottiene dal vitigno Fiano è di colore Giallo paglierino , Foxy . Al palato è Fruttato , complesso .",B,FIANO,fiano,
+,N,FIUDEDDA,fiudedda,
+,B,FLAVIS,flavis,
+,B,FLEURTAI,fleurtai,['UD-34.111']
+"Il vino che si ottiene dal vitigno Fogarina è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,FOGARINA,fogarina,
+"Il vino che si ottiene dal vitigno Foglia tonda è di colore Rosso rubino . Al palato è Fruttato , Floreale , di corpo .",N,FOGLIA TONDA,foglia_tonda,
+"Il vino che si ottiene dal vitigno Forastera è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,FORASTERA,forastera,"['FORESTIERA', 'FURASTIERA']"
+"Il vino che si ottiene dal vitigno Forgiarin è di colore Rosso rubino . Al palato è Fruttato , morbido .",N,FORGIARIN,forgiarin,
+,N,FORSELLINA,forsellina,
+"Il vino che si ottiene dal vitigno Fortana è di colore Rosso rubino . Al palato è caldo , sapido , tannico .",N,FORTANA,fortana,"[""UVA D'ORO""]"
+"Il vino che si ottiene dal vitigno Francavidda è di colore Giallo paglierino . Al palato è Floreale , Erbaceo , complesso .",B,FRANCAVIDDA,francavidda,['FRANCAVILLA']
+"Il vino che si ottiene dal vitigno Franconia è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,FRANCONIA,franconia,
+"Il vino che si ottiene dal vitigno Frappato è di colore Rosso rubino . Al palato è Fruttato , Floreale , tannico .",N,FRAPPATO,frappato,"[""FRAPPATO D' ITALIA""]"
+,B,FRAUELER,fraueler,
+"Il vino che si ottiene dal vitigno Freisa è di colore Rosso rubino . Al palato è Fruttato , Floreale , di corpo .",N,FREISA,freisa,
+,B,FUBIANO,fubiano,
+,N,FUMAT,fumat,
+"Il vino che si ottiene dal vitigno Fumin è di colore Rosso rubino . Al palato è Erbaceo , Speziato , tannico .",N,FUMIN,fumin,
+,B,FURCINA,furcina,
+,N,FURNER,furner,
+"Il vino che si ottiene dal vitigno Gaglioppo è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,GAGLIOPPO,gaglioppo,
+"Il vino che si ottiene dal vitigno Gamaret è di colore Rosso rubino . Al palato è Fruttato , Speziato , tannico , di corpo .",N,GAMARET,gamaret,
+"Il vino che si ottiene dal vitigno Gamay è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,GAMAY,gamay,
+"Il vino che si ottiene dal vitigno Gamba rossa è di colore Rosso rubino . Al palato è Speziato , Fruttato , Balsamico , tannico .",N,GAMBA ROSSA,gamba_rossa,['IMPERATRICE DALLA GAMBA ROSSA']
+,N,GARANOIR,garanoir,
+"Il vino che si ottiene dal vitigno Garganega è di colore Giallo paglierino . Al palato è Fruttato , Floreale , fresco , sapido .",B,GARGANEGA,garganega,"['(094) GRECANICO DORATO B.', 'GARGANEGO']"
+"Il vino che si ottiene dal vitigno Garofanata è di colore Giallo paglierino . Al palato è fresco , Fruttato , sapido , di medio corpo .",B,GAROFANATA,garofanata,
+,B,GHIANDARA,ghiandara,['GHIANNARA']
+"Il vino che si ottiene dal vitigno Ginestra è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,GINESTRA,ginestra,
+,B,GIOSANA,giosana,
+"Il vino che si ottiene dal vitigno Girò è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,GIRO',giro_,
+"Il vino che si ottiene dal vitigno Glera è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,GLERA,glera,['SERPRINO']
+,,GLERA B-,glera_b_,
+"Il vino che si ottiene dal vitigno Glera lunga è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,GLERA LUNGA,glera_lunga,"['GLERA', 'SERPRINO']"
+,N,GNOCA,gnoca,
+,,GODELLO,godello,
+"Il vino che si ottiene dal vitigno Goldtraminer è di colore Giallo paglierino . Al palato è Aromatico , di corpo , persistente .",B,GOLDTRAMINER,goldtraminer,
+"Il vino che si ottiene dal vitigno Gosen è di colore Rosso rubino . Al palato è Erbaceo , tannico , di corpo .",N,GOSEN,gosen,
+,B,GRADO',grado_,
+,N,GRALIMA,gralima,
+,N,GRAND NOIR,grand_noir,
+,B,GRAPARIOL,grapariol,
+,N,GRAPPELLO RUBERTI,grappello_ruberti,['Lambrusco viadanese']
+,N,GRATENA,gratena,['(110) INCROCIO TERZI N.1 N.']
+"Il vino che si ottiene dal vitigno Grecanico dorato è di colore Giallo dorato . Al palato è Fruttato , Floreale , sapido , fresco .",B,GRECANICO DORATO,grecanico_dorato,['(092) GARGANEGA B.']
+,N,GRECARESE,grecarese,
+"Il vino che si ottiene dal vitigno Grechetto è di colore Giallo paglierino . Al palato è Minerale , Fruttato , Floreale .",B,GRECHETTO,grechetto,
+"Il vino che si ottiene dal vitigno Grechetto rosso è di colore Rosso rubino . Al palato è secco , sapido , Fruttato , persistente .",N,GRECHETTO ROSSO,grechetto_rosso,['(218) SANGIOVESE N.']
+"Il vino che si ottiene dal vitigno Greco è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,GRECO,greco,['(016) ASPRINIO BIANCO B.']
+"Il vino che si ottiene dal vitigno Greco Bianco è di colore Giallo dorato , Foxy . Al palato è Fruttato , Floreale , sapido , fresco .",B,GRECO BIANCO,greco_bianco,"['(105) GUARDAVALLE B.', 'GRECO']"
+"Il vino che si ottiene dal vitigno Greco Nero è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,GRECO NERO,greco_nero,"['(143) Marsigliana N.', '(934) Magliocco dolce N.', 'Arvino', 'GRECO']"
+,N,GREGU NIEDDU,gregu_nieddu,
+,N,GRERO,grero,['Grero']
+"Il vino che si ottiene dal vitigno Grignolino è di colore Rosso rubino . Al palato è Floreale , Fruttato , tannico .",N,GRIGNOLINO,grignolino,
+"Il vino che si ottiene dal vitigno Grillo è di colore Giallo paglierino . Al palato è Erbaceo , Floreale , fresco .",B,GRILLO,grillo,
+"Il vino che si ottiene dal vitigno Groppello di Mocasina è di colore Rosso rubino , brillante . Al palato è fresco , di corpo , morbido .",N,GROPPELLO DI MOCASINA,groppello_di_mocasina,
+"Il vino che si ottiene dal vitigno Groppello di Revò è di colore Rosso rubino , brillante . Al palato è fresco , di corpo , morbido .",N,GROPPELLO DI REVO,groppello_di_revo,
+,N,GROPPELLO DI S. STEFANO,groppello_di_s__stefano,
+"Il vino che si ottiene dal vitigno Groppello Gentile è di colore Rosso rubino , brillante . Al palato è fresco , di corpo , morbido .",N,GROPPELLO GENTILE,groppello_gentile,['GROPPELLO']
+"Il vino che si ottiene dal vitigno Gruaja è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,GRUAJA,gruaja,
+"Il vino che si ottiene dal vitigno Guardavalle è di colore Giallo paglierino , Foxy . Al palato è Fruttato , Floreale , sapido , fresco .",B,GUARDAVALLE,guardavalle,"['(098) GRECO BIANCO B.', 'UVA GRECA']"
+"Il vino che si ottiene dal vitigno Guarnaccia è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,GUARNACCIA,guarnaccia,['GRANATZA']
+,N,GUARNACCINO,guarnaccino,
+,B,HELIOS,helios,
+,N,IASMA ECO 1,iasma_eco_1,
+,N,IASMA ECO 2,iasma_eco_2,
+,B,IASMA ECO 3,iasma_eco_3,
+,B,IASMA ECO 4,iasma_eco_4,
+"Il vino che si ottiene dal vitigno Impigno è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,IMPIGNO,impigno,
+,B,INCROCIO BIANCO FEDIT 51 C.S.G.,incrocio_bianco_fedit_51_c_s_g_,['(460) Dorona B.']
+"Il vino che si ottiene dal vitigno Incrocio Bruni 54 è di colore Giallo paglierino . Al palato è Aromatico , di corpo .",B,INCROCIO BRUNI 54,incrocio_bruni_54,
+,N,INCROCIO MANZONI 2-14,incrocio_manzoni_2_14,
+,N,INCROCIO MANZONI 2.15,incrocio_manzoni_2_15,['MANZONI ROSSO']
+"Il vino che si ottiene dal vitigno Incrocio Manzoni 2.3 è di colore Giallo paglierino . Al palato è fresco , sapido , Speziato .",B,INCROCIO MANZONI 2-3,incrocio_manzoni_2_3,
+,N,INCROCIO TERZI 1,incrocio_terzi_1,['(440) GRATENA N.']
+,,INGANNAPASTORE,ingannapastore,
+"Il vino che si ottiene dal vitigno Invernenga è di colore Giallo verdolino . Al palato è Fruttato , Floreale , sapido , fresco .",B,INVERNENGA,invernenga,
+,N,INZOLIA NERA,inzolia_nera,
+,B,IRSAI OLIVER,irsai_oliver,
+,B,ITALICA,italica,
+"Il vino che si ottiene dal vitigno Johanniter è di colore Giallo paglierino con riflessi verdolini . Al palato è Fruttato , Floreale , sapido , fresco .",B,JOHANNITER,johanniter,
+,N,JULIUS,julius,['UD-36.030']
+"Il vino che si ottiene dal vitigno Kerner è di colore Giallo paglierino . Al palato è fresco , Aromatico , Speziato .",B,KERNER,kerner,
+,B,KERSUS,kersus,
+"Il vino che si ottiene dal vitigno Lacrima è di colore Rosso rubino . Al palato è Aromatico , Fruttato , di corpo .",N,LACRIMA,lacrima,
+,B,LAGARINO,lagarino,
+,N,LAGARIO,lagario,
+"Il vino che si ottiene dal vitigno Lagrein è di colore Rosso rubino . Al palato è Fruttato , tannico , di corpo .",N,LAGREIN,lagrein,
+"Il vino che si ottiene dal vitigno Lambrusca di Alessandria è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,LAMBRUSCA DI ALESSANDRIA,lambrusca_di_alessandria,
+"Il vino che si ottiene dal vitigno Lambrusco a foglia frastagliata è di colore Rosso rubino . Al palato è Erbaceo , Fruttato , tannico , caldo .",N,LAMBRUSCO A FOGLIA FRASTAGLIATA,lambrusco_a_foglia_frastagliata,['ENANTIO']
+"Il vino che si ottiene dal vitigno Lambrusco Barghi è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,LAMBRUSCO BARGHI,lambrusco_barghi,
+,N,LAMBRUSCO BENETTI,lambrusco_benetti,
+,N,LAMBRUSCO DEL PELLEGRINO,lambrusco_del_pellegrino,
+"Il vino che si ottiene dal vitigno Lambrusco di Sorbara è di colore Rosso rubino . Al palato è fresco , Floreale , Fragrante .",N,LAMBRUSCO DI SORBARA,lambrusco_di_sorbara,
+"Il vino che si ottiene dal vitigno Lambrusco Grasparossa è di colore Rosso rubino . Al palato è fresco , Floreale , Fragrante .",N,LAMBRUSCO GRASPAROSSA,lambrusco_grasparossa,"['GROPPELLO GRASPAROSSA', 'LAMBRUSCO']"
+"Il vino che si ottiene dal vitigno Lambrusco Maestri è di colore Rosso rubino . Al palato è fresco , Floreale , Fragrante .",N,LAMBRUSCO MAESTRI,lambrusco_maestri,"['GROPPELLO MAESTRI', 'LAMBRUSCO']"
+"Il vino che si ottiene dal vitigno Lambrusco Marani è di colore Rosso rubino , brillante . Al palato è fresco , Floreale , Fragrante .",N,LAMBRUSCO MARANI,lambrusco_marani,['LAMBRUSCO']
+"Il vino che si ottiene dal vitigno Lambrusco Montericco è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,LAMBRUSCO MONTERICCO,lambrusco_montericco,
+"Il vino che si ottiene dal vitigno Lambrusco Oliva è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,LAMBRUSCO OLIVA,lambrusco_oliva,
+"Il vino che si ottiene dal vitigno Lambrusco Salamino è di colore Rosso rubino . Al palato è fresco , Floreale , Fragrante .",N,LAMBRUSCO SALAMINO,lambrusco_salamino,['LAMBRUSCO']
+"Il vino che si ottiene dal vitigno Lambrusco Viadanese è di colore Rosso rubino . Al palato è fresco , Floreale , Fragrante .",N,LAMBRUSCO VIADANESE,lambrusco_viadanese,['Grappello ruberti']
+,B,LANZESA,lanzesa,
+"Il vino che si ottiene dal vitigno Lecinaro è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",N,LECINARO,lecinaro,
+,B,LICRONAXU,licronaxu,
+,,LICRONAXU ROSA Rs.,licronaxu_rosa_rs_,
+,B,LISEIRET,liseiret,
+,B,LIVORNESE BIANCA,livornese_bianca,
+"Il vino che si ottiene dal vitigno Loureiro è di colore Giallo verdolino . Al palato è Fruttato , Floreale , sapido , fresco .",,LOUREIRO,loureiro,
+,N,LUCIGNOLA,lucignola,
+"Il vino che si ottiene dal vitigno Lumassina è di colore Giallo paglierino . Al palato è fresco , Fruttato , Floreale , persistente .",B,LUMASSINA,lumassina,"['BUZZETTO', 'MATAOSSO', 'MATAOSSU']"
+"Il vino che si ottiene dal vitigno Macabeo è di colore Giallo paglierino . Al palato è fresco , Fruttato , Floreale , di corpo .",,MACABEO,macabeo,
+"Il vino che si ottiene dal vitigno Maceratino è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MACERATINO,maceratino,['RIBONA']
+"Il vino che si ottiene dal vitigno Magliocco canino è di colore Rosso rubino . Al palato è caldo , Fruttato , fine , elegante .",N,MAGLIOCCO CANINO,magliocco_canino,
+"Il vino che si ottiene dal vitigno Magliocco dolce è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MAGLIOCCO DOLCE,magliocco_dolce,"['(143) MARSIGLIANA N.', '(099) GRECO NERO N.', 'ARVINO.']"
+"Il vino che si ottiene dal vitigno Maiolica è di colore Rosso rubino . Al palato è Fruttato , Speziato , abbastanza tannico .",N,MAIOLICA,maiolica,
+,N,MAIOLINA,maiolina,
+"Il vino che si ottiene dal vitigno Malbech è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MALBECH,malbech,
+"Il vino che si ottiene dal vitigno Malbo gentile è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MALBO GENTILE,malbo_gentile,
+,N,MALVASIA,malvasia,"['MALVASIER', 'ROTER MALVASIER;']"
+"Il vino che si ottiene dal vitigno Malvasia bianca è di colore Giallo paglierino . Al palato è caldo , Aromatico , Floreale .",B,MALVASIA BIANCA,malvasia_bianca,"['VERDANA', 'IUVARELLA', 'MALVASIA']"
+"Il vino che si ottiene dal vitigno Malvasia bianca di Basilicata è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MALVASIA BIANCA DI BASILICATA,malvasia_bianca_di_basilicata,
+"Il vino che si ottiene dal vitigno Malvasia bianca di Candia è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MALVASIA BIANCA DI CANDIA,malvasia_bianca_di_candia,"['MALVASIA', 'MALVOISIE', 'MALVOISIER']"
+"Il vino che si ottiene dal vitigno Malvasia bianca lunga è di colore Giallo paglierino . Al palato è fresco , sapido , Aromatico .",B,MALVASIA BIANCA LUNGA,malvasia_bianca_lunga,"['MALVASIA', 'MALVOISIE', 'MALVOISIER']"
+,B,MALVASIA CASALINI,malvasia_casalini,
+"Il vino che si ottiene dal vitigno Malvasia del Lazio è di colore Giallo paglierino . Al palato è fresco , sapido , Fruttato .",B,MALVASIA DEL LAZIO,malvasia_del_lazio,['MALVASIA PUNTINATA']
+"Il vino che si ottiene dal vitigno Malvasia di Candia aromatica è di colore Giallo paglierino . Al palato è Aromatico , fresco , sapido .",B,MALVASIA DI CANDIA AROMATICA,malvasia_di_candia_aromatica,
+"Il vino che si ottiene dal vitigno Malvasia di Casorzo è di colore Rosso rubino . Al palato è Aromatico , fine , tannico .",N,MALVASIA DI CASORZO,malvasia_di_casorzo,
+"Il vino che si ottiene dal vitigno Malvasia di Lipari è di colore Giallo dorato . Al palato è Fruttato , Speziato .",B,MALVASIA DI LIPARI,malvasia_di_lipari,['(136) MALVASIA DI SARDEGNA B.']
+"Il vino che si ottiene dal vitigno Malvasia di Sardegna è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,MALVASIA DI SARDEGNA,malvasia_di_sardegna,['(135) MALVASIA DI LIPARI B.']
+"Il vino che si ottiene dal vitigno Malvasia di Schierano è di colore Rosso rubino . Al palato è Fruttato , Aromatico , Speziato , di medio corpo .",N,MALVASIA DI SCHIERANO,malvasia_di_schierano,
+"Il vino che si ottiene dal vitigno Malvasia Istriana è di colore Giallo paglierino . Al palato è secco , Fruttato , Floreale .",B,MALVASIA ISTRIANA,malvasia_istriana,
+,B,MALVASIA MOSCATA,malvasia_moscata,
+"Il vino che si ottiene dal vitigno Malvasia nera di Basilicata è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MALVASIA NERA DI BASILICATA,malvasia_nera_di_basilicata,
+"Il vino che si ottiene dal vitigno Malvasia nera di Brindisi è di colore Rosso rubino . Al palato è caldo , Aromatico , Fruttato .",N,MALVASIA NERA DI BRINDISI,malvasia_nera_di_brindisi,"['(141) MALVASIA NERA DI LECCE N.', 'MALVASIA', 'MALVOISIE', 'MALVOISIER']"
+"Il vino che si ottiene dal vitigno Malvasia nera di Lecce è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MALVASIA NERA DI LECCE,malvasia_nera_di_lecce,"['(140) MALVASIA NERA DI BRINDISI N.', 'MALVASIA', 'MALVOISIE', 'MALVOISIER']"
+"Il vino che si ottiene dal vitigno Malvasia nera lunga è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MALVASIA NERA LUNGA,malvasia_nera_lunga,
+,,MALVASIA ROSA Rs.,malvasia_rosa_rs_,
+"Il vino che si ottiene dal vitigno Mammolo è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MAMMOLO,mammolo,
+"Il vino che si ottiene dal vitigno Mantonico bianco è di colore Giallo paglierino . Al palato è Floreale , Fruttato , fresco , sapido .",B,MANTONICO BIANCO,mantonico_bianco,
+"Il vino che si ottiene dal vitigno Manzoni bianco è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MANZONI BIANCO,manzoni_bianco,['INCROCIO MANZONI 6.0.13']
+"Il vino che si ottiene dal vitigno Manzoni Moscato è di colore Rosso rubino , brillante . Al palato è fresco , Aromatico , Fruttato .",N,MANZONI MOSCATO,manzoni_moscato,['INCROCIO MANZONI 13.0.25']
+,,MANZONI ROSA Rs.,manzoni_rosa_rs_,['INCROCIO MANZONI 1-50']
+,B,MAOR,maor,
+,B,MARA BIANCA,mara_bianca,
+,B,MARCHIONE,marchione,
+,B,MARESCO,maresco,
+"Il vino che si ottiene dal vitigno Marsanne è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MARSANNE,marsanne,
+,N,MARSELAN,marselan,
+"Il vino che si ottiene dal vitigno Marsigliana nera è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MARSIGLIANA NERA,marsigliana_nera,"['(099) Greco Nero N.', '(934) Magliocco Dolce N.', 'Arvino.']"
+"Il vino che si ottiene dal vitigno Marzemina bianca è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MARZEMINA BIANCA,marzemina_bianca,['MARZEMINA']
+,N,MARZEMINA GROSSA,marzemina_grossa,['MARZEMINA BASTARDA']
+"Il vino che si ottiene dal vitigno Marzemino è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MARZEMINO,marzemino,"['BERZAMINO', 'BERZEMINO']"
+,B,MATTARELLA,mattarella,
+"Il vino che si ottiene dal vitigno Maturano è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,MATURANO,maturano,
+,N,MATURANO NERO,maturano_nero,
+"Il vino che si ottiene dal vitigno Mayolet è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MAYOLET,mayolet,
+,N,MAZZESE,mazzese,
+,N,MEDRULINU,medrulinu,
+"Il vino che si ottiene dal vitigno Melara è di colore Giallo dorato , Foxy . Al palato è Aromatico , Fruttato , persistente .",B,MELARA,melara,
+,N,MERERA,merera,
+"Il vino che si ottiene dal vitigno Merlese è di colore Rosso rubino . Al palato è Fruttato , abbastanza tannico , di corpo .",N,MERLESE,merlese,
+"Il vino che si ottiene dal vitigno Merlot è di colore Rosso rubino . Al palato è caldo , Fruttato , tannico , di corpo .",N,MERLOT,merlot,
+,N,MERLOT KANTHUS,merlot_kanthus,['UD-31.122']
+,N,MERLOT KHORUS,merlot_khorus,['UD-31.125']
+,N,MEUNIER,meunier,
+"Il vino che si ottiene dal vitigno Minnella bianca è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MINNELLA BIANCA,minnella_bianca,
+"Il vino che si ottiene dal vitigno Minutolo è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MINUTOLO,minutolo,
+"Il vino che si ottiene dal vitigno Molinara è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MOLINARA,molinara,"['ROSSANO', 'ROSSANELLA']"
+"Il vino che si ottiene dal vitigno Mondeuse è di colore Rosso rubino . Al palato è secco , Fruttato , Floreale , tannico .",N,MONDEUSE,mondeuse,
+"Il vino che si ottiene dal vitigno Monica è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MONICA,monica,
+,,"MONICA N,",monica_n_,
+,N,MONTANERA,montanera,
+"Il vino che si ottiene dal vitigno Montepulciano è di colore Rosso rubino . Al palato è Fruttato , tannico , di corpo .",N,MONTEPULCIANO,montepulciano,['CORDISCO']
+"Il vino che si ottiene dal vitigno Montonico bianco è di colore Giallo paglierino . Al palato è fresco , Fruttato , Speziato .",B,MONTONICO BIANCO,montonico_bianco,['UVA DELLA SCALA']
+"Il vino che si ottiene dal vitigno Montù è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MONTU',montu_,['MONTUNI']
+,N,MORADELLA,moradella,
+,N,MORELLONE,morellone,
+,N,MORETTO GROSSO,moretto_grosso,
+,N,MORNASCA,mornasca,
+,N,MORONE,morone,
+"Il vino che si ottiene dal vitigno Moscatello selvatico è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MOSCATELLO SELVATICO,moscatello_selvatico,
+"Il vino che si ottiene dal vitigno Moscato bianco è di colore Giallo paglierino . Al palato è Aromatico , Fragrante , fresco .",B,MOSCATO BIANCO,moscato_bianco,"['MUSCAT BLANC A PETIT GRAIN', 'MUSCAT DE CHAMBAVE', 'MOSCATO', 'MOSCATELLO', 'MOSCATELLONE', 'MUSCAT', 'MUSKATELLER', 'MOSCATO REALE', 'GELBER MUSKATELLER']"
+"Il vino che si ottiene dal vitigno Moscato d’Amburgo è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,MOSCATO D AMBURGO,moscato_d_amburgo,
+"Il vino che si ottiene dal vitigno Moscato di Scanzo è di colore Rosso rubino . Al palato è complesso , Floreale , Fruttato .",N,MOSCATO DI SCANZO,moscato_di_scanzo,
+"Il vino che si ottiene dal vitigno Moscato di Terracina è di colore Giallo dorato . Al palato è sapido , Aromatico , Fruttato .",B,MOSCATO DI TERRACINA,moscato_di_terracina,"['MOSCATELLO', 'MOSCATELLONE', 'MUSCAT', 'MUSKATELLER']"
+"Il vino che si ottiene dal vitigno Moscato giallo è di colore Giallo dorato . Al palato è Aromatico , Fragrante , fresco .",B,MOSCATO GIALLO,moscato_giallo,"['MOSCATO', 'MOSCATELLO', 'MOSCATELLONE', 'GOLDMUSKATELLER', 'MUSCAT', 'MUSKATELLER']"
+,N,MOSCATO NERO DI ACQUI,moscato_nero_di_acqui,
+,B,MOSCATO OTTONEL,moscato_ottonel,
+,,MOSCATO ROSA Rs.,moscato_rosa_rs_,"['MOSCATO DELLE ROSE', 'ROSENMUSKATELLER']"
+,,MOSCHOMAVRO,moschomavro,
+,B,MOSCIANELLO,moscianello,
+"Il vino che si ottiene dal vitigno Mostosa è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,MOSTOSA,mostosa,
+,N,MOURVEDRE,mourvedre,['Monastrell']
+"Il vino che si ottiene dal vitigno Müller-Thurgau è di colore Giallo verdolino . Al palato è Fruttato , Floreale , sapido .",B,MULLER THURGAU,muller_thurgau,['WEISSER RIESLING X MADELEINE ROYALE']
+,B,MUSCARIS,muscaris,
+"Il vino che si ottiene dal vitigno Nascetta è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,NASCETTA,nascetta,
+"Il vino che si ottiene dal vitigno Nasco è di colore Giallo dorato . Al palato è Fruttato , Floreale , sapido , fresco .",B,NASCO,nasco,
+,N,NEBBIERA,nebbiera,
+"Il vino che si ottiene dal vitigno Nebbiolo è di colore Rosso rubino . Al palato è Floreale , Balsamico , tannico , di corpo .",N,NEBBIOLO,nebbiolo,"['SPANNA', 'CHIAVENNASCA', 'PRUNENT']"
+"Il vino che si ottiene dal vitigno Negrara è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NEGRARA,negrara,
+,N,NEGRELLONE,negrellone,
+"Il vino che si ottiene dal vitigno Negretto è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NEGRETTO,negretto,
+"Il vino che si ottiene dal vitigno Negro Amaro è di colore Rosso rubino . Al palato è Fruttato , Speziato , tannico .",N,NEGRO AMARO,negro_amaro,"['NEGROAMARO', 'NERO AMARO']"
+"Il vino che si ottiene dal vitigno Negroamaro precoce è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NEGROAMARO PRECOCE,negroamaro_precoce,
+,N,NEGRONE,negrone,
+,N,NER D'ALA,ner_d_ala,
+,N,NERA DEL PONTE,nera_del_ponte,
+"Il vino che si ottiene dal vitigno Nerello Cappuccio è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NERELLO CAPPUCCIO,nerello_cappuccio,"['NERELLO MANTELLATO', '(037) BOVALE GRANDE N.', '(054) CARIGNANO N.']"
+"Il vino che si ottiene dal vitigno Nerello Mascalese è di colore Rosso rubino . Al palato è elegante , tannico , di corpo .",N,NERELLO MASCALESE,nerello_mascalese,
+"Il vino che si ottiene dal vitigno Neretta Cuneese è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NERETTA CUNEESE,neretta_cuneese,
+"Il vino che si ottiene dal vitigno Neretto di Bairo è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NERETTO DI BAIRO,neretto_di_bairo,
+,N,NERMANTIS,nermantis,['F22P10 N.']
+,,NERO ANTICO,nero_antico,
+"Il vino che si ottiene dal vitigno Nero buono è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NERO BUONO,nero_buono,
+"Il vino che si ottiene dal vitigno Neyret è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NEYRET,neyret,
+,N,NIEDDA CARTA,niedda_carta,
+"Il vino che si ottiene dal vitigno Nieddera è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NIEDDERA,nieddera,
+,N,NIEDDU MANNU,nieddu_mannu,
+,N,NIGHEDDU POLCHINU,nigheddu_polchinu,
+,N,NIGRA,nigra,
+,B,NOCCHIANELLO BIANCO,nocchianello_bianco,
+,N,NOCCHIANELLO NERO,nocchianello_nero,
+"Il vino che si ottiene dal vitigno Nocera è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NOCERA,nocera,
+"Il vino che si ottiene dal vitigno Nosiola è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,NOSIOLA,nosiola,
+"Il vino che si ottiene dal vitigno Notardomenico è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,NOTARDOMENICO,notardomenico,['SAN NICOLA']
+"Il vino che si ottiene dal vitigno Nuragus è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,NURAGUS,nuragus,
+,,NURAGUS ARRUBIU Rs.,nuragus_arrubiu_rs_,
+"Il vino che si ottiene dal vitigno Olivella nera è di colore Rosso rubino . Al palato è fresco , Fruttato , tannico , di corpo .",N,OLIVELLA NERA,olivella_nera,
+,N,ORISI,orisi,
+,B,ORPICCHIO,orpicchio,
+"Il vino che si ottiene dal vitigno Ortrugo è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,ORTRUGO,ortrugo,
+"Il vino che si ottiene dal vitigno Oseleta è di colore Rosso rubino . Al palato è Fruttato , Speziato , tannico , di corpo .",N,OSELETA,oseleta,
+"Il vino che si ottiene dal vitigno Ottavianello è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,OTTAVIANELLO,ottavianello,
+,B,PALAVA,palava,
+"Il vino che si ottiene dal vitigno Pallagrello bianco è di colore Giallo paglierino . Al palato è Fruttato , persistente .",B,PALLAGRELLO BIANCO,pallagrello_bianco,
+"Il vino che si ottiene dal vitigno Pallagrello nero è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,PALLAGRELLO NERO,pallagrello_nero,
+,B,PALMA,palma,
+"Il vino che si ottiene dal vitigno Pampanaro è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,PAMPANARO,pampanaro,
+,B,PAMPANUTO,pampanuto,"['PAMPANINO', '(252) VERDECA B.']"
+,B,PANSALE,pansale,
+,B,PAOLINA,paolina,
+"Il vino che si ottiene dal vitigno Pascale è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,PASCALE,pascale,
+,N,PASSAU,passau,
+,B,PASSERETTA,passeretta,
+"Il vino che si ottiene dal vitigno Passerina è di colore Giallo paglierino . Al palato è secco , Fruttato , Floreale .",B,PASSERINA,passerina,
+,,PATTARESCA,pattaresca,
+"Il vino che si ottiene dal vitigno Pavana è di colore Rosso rubino . Al palato è sapido , Fruttato , Erbaceo .",N,PAVANA,pavana,['SACCOLA']
+,N,PECOLO SCURO,pecolo_scuro,
+"Il vino che si ottiene dal vitigno Pecorello è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,PECORELLO,pecorello,
+"Il vino che si ottiene dal vitigno Pecorino è di colore Giallo paglierino . Al palato è secco , Fruttato , Floreale .",B,PECORINO,pecorino,['VISSANELLO']
+"Il vino che si ottiene dal vitigno Pedevenda è di colore Giallo paglierino , Foxy . Al palato è Fruttato , Floreale , sapido , fresco .",B,PEDEVENDA,pedevenda,
+,N,PELAGOS,pelagos,
+"Il vino che si ottiene dal vitigno Pelaverga è di colore Rosso rubino . Al palato è secco , Fruttato , Speziato .",N,PELAVERGA,pelaverga,['CARI']
+"Il vino che si ottiene dal vitigno Pelaverga piccolo è di colore Rosso rubino . Al palato è Fruttato , Speziato , di corpo .",N,PELAVERGA PICCOLO,pelaverga_piccolo,
+"Il vino che si ottiene dal vitigno Pepella è di colore Giallo paglierino . Al palato è fresco , Fruttato , di corpo .",B,PEPELLA,pepella,
+"Il vino che si ottiene dal vitigno Perera è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,PERERA,perera,
+"Il vino che si ottiene dal vitigno Perla dei vivi è di colore Rosso rubino . Al palato è Fruttato , di corpo .",N,PERLA DEI VIVI,perla_dei_vivi,
+,B,PERLA DI CSABA,perla_di_csaba,
+"Il vino che si ottiene dal vitigno Perricone è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,PERRICONE,perricone,"['PIGNATELLO', 'BALBINO']"
+"Il vino che si ottiene dal vitigno Petit Manseng è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,PETIT MANSENG,petit_manseng,
+"Il vino che si ottiene dal vitigno Petit Rouge è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,PETIT ROUGE,petit_rouge,
+"Il vino che si ottiene dal vitigno Petit Verdot è di colore Rosso rubino . Al palato è secco , Speziato , tannico .",N,PETIT VERDOT,petit_verdot,
+"Il vino che si ottiene dal vitigno Petite Arvine è di colore Giallo paglierino , Foxy . Al palato è Fruttato , Floreale , sapido , fresco .",B,PETITE ARVINE,petite_arvine,
+,N,PICCOLA NERA,piccola_nera,
+"Il vino che si ottiene dal vitigno Picolit è di colore Giallo paglierino , Foxy . Al palato è Floreale , Fruttato , elegante .",B,PICOLIT,picolit,
+,N,PICULIT-NERI,piculit_neri,
+"Il vino che si ottiene dal vitigno Piedirosso è di colore Rosso rubino . Al palato è Fruttato , Floreale , tannico , fine .",N,PIEDIROSSO,piedirosso,"['PIEDE DI COLOMBO', 'PIEDE DI PALUMBO', ""PER' E PALUMMO"", 'PALOMBINA']"
+"Il vino che si ottiene dal vitigno Pigato è di colore Giallo paglierino . Al palato è secco , Fruttato , Minerale .",B,PIGATO,pigato,"['(80) FAVORITA B.', '(259) VERMENTINO B.']"
+"Il vino che si ottiene dal vitigno Pignola è di colore Rosso rubino . Al palato è caldo , Fruttato , tannico , di corpo .",N,PIGNOLA,pignola,
+"Il vino che si ottiene dal vitigno Pignoletto è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,PIGNOLETTO,pignoletto,"['GRECHETTO GENTILE', 'ALIONZINA', 'GRECHETTO']"
+"Il vino che si ottiene dal vitigno Pignolo è di colore Rosso rubino . Al palato è caldo , Fruttato , tannico , persistente .",N,PIGNOLO,pignolo,
+"Il vino che si ottiene dal vitigno Pinella è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,PINELLA,pinella,"['PINELLA BIANCA', 'PINELLO']"
+"Il vino che si ottiene dal vitigno Pinot bianco è di colore Giallo paglierino . Al palato è fresco , secco , di corpo .",B,PINOT BIANCO,pinot_bianco,['WEI']
+,,PINOT GRIGIO G.,pinot_grigio_g_,"['RULANDER', 'PINOT GRIS', 'PINOT', 'GRAUER BURGUNDER', 'GRAUBURGUNDER']"
+,B,PINOT ISKRA,pinot_iskra,
+,N,PINOT KORS,pinot_kors,
+"Il vino che si ottiene dal vitigno Pinot nero è di colore Rosso rubino . Al palato è Fruttato , tannico , di corpo , elegante .",N,PINOT NERO,pinot_nero,"['BLAU BURGUNDER ; SPATBURGUNDER', 'BLAUER SPATBURGUNDER', 'PINOT NOIR', 'PINOT']"
+,N,PINOT REGINA,pinot_regina,
+,N,PINOTIN,pinotin,
+,N,PLASSA,plassa,
+,N,PLAVINA,plavina,
+,N,PLINIANA,pliniana,
+"Il vino che si ottiene dal vitigno Pollera nera è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,POLLERA NERA,pollera_nera,
+,B,POLOSKEI MUSKOTALY,poloskei_muskotaly,
+"Il vino che si ottiene dal vitigno Portoghese è di colore Rosso rubino . Al palato è secco , Fruttato , tannico .",N,PORTOGHESE,portoghese,"['BLAUER PORTUGIESER', 'PORTUGIESER']"
+"Il vino che si ottiene dal vitigno Prié blanc è di colore Giallo paglierino . Al palato è fresco , Fruttato , Erbaceo .",B,PRIE BLANC,prie_blanc,
+,,PRIE BLANC B,prie_blanc_b,
+,,PRIE ROUGE Rs.,prie_rouge_rs_,
+"Il vino che si ottiene dal vitigno Primitivo è di colore Rosso rubino . Al palato è caldo , Speziato , Fruttato , tannico .",N,PRIMITIVO,primitivo,['ZINFANDEL']
+,N,PRIOR,prior,
+,N,PROCU NIEDDU,procu_nieddu,
+,N,PRODEST,prodest,
+,N,PRUGNOLO GENTILE,prugnolo_gentile,
+"Il vino che si ottiene dal vitigno Prunesta è di colore Rosso rubino . Al palato è secco , tannico , di corpo .",N,PRUNESTA,prunesta,
+"Il vino che si ottiene dal vitigno Pugnitello è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,PUGNITELLO,pugnitello,
+"Il vino che si ottiene dal vitigno Quagliano è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,QUAGLIANO,quagliano,
+,B,RABOSA BIANCA,rabosa_bianca,
+"Il vino che si ottiene dal vitigno Raboso Piave è di colore Rosso rubino . Al palato è Fruttato , tannico , di corpo .",N,RABOSO PIAVE,raboso_piave,['FRIULARO']
+"Il vino che si ottiene dal vitigno Raboso Veronese è di colore Rosso rubino . Al palato è Fruttato , tannico , di corpo .",N,RABOSO VERONESE,raboso_veronese,
+,,RACINA PICCOLA,racina_piccola,
+,N,RANCHELLA,ranchella,
+,N,RASPATO NERO,raspato_nero,
+,B,REALE BIANCA,reale_bianca,
+"Il vino che si ottiene dal vitigno Rebo è di colore Rosso rubino . Al palato è caldo , Fruttato , tannico .",N,REBO,rebo,
+,N,RECALDINA,recaldina,
+"Il vino che si ottiene dal vitigno Recantina è di colore Rosso rubino . Al palato è sapido , Fruttato , tannico , di corpo .",N,RECANTINA,recantina,
+,B,RECUNU,recunu,
+,B,REFOSCO BIANCO,refosco_bianco,
+"Il vino che si ottiene dal vitigno Refosco dal peduncolo rosso è di colore Rosso rubino . Al palato è Fruttato , sapido , tannico , di corpo .",N,REFOSCO DAL PEDUNCOLO ROSSO,refosco_dal_peduncolo_rosso,"['REFOSCO', 'MALVOISE']"
+"Il vino che si ottiene dal vitigno Refosco nostrano è di colore Rosso rubino . Al palato è Erbaceo , tannico .",N,REFOSCO NOSTRANO,refosco_nostrano,"['REFOSCO', 'REFOSCO GROSSO', 'REFOSCONE', 'MALVOISE']"
+"Il vino che si ottiene dal vitigno Regent è di colore Rosso rubino . Al palato è Fruttato , tannico , di corpo .",N,REGENT,regent,
+"Il vino che si ottiene dal vitigno Regina è di colore Giallo paglierino . Al palato è Aromatico , poco sapido , poco fresco .",B,REGINA,regina,
+,B,REGINA DEI VIGNETI,regina_dei_vigneti,
+,,REGINELLA,reginella,
+,B,RETAGLIADO BIANCO,retagliado_bianco,
+,B,RIBUELE,ribuele,"['RIBOLLA GIALLA', 'RIBOLLA', 'REBULA']"
+"Il vino che si ottiene dal vitigno Riesling Italico è di colore Giallo paglierino . Al palato è Fruttato , Minerale , fresco .",B,RIESLING ITALICO,riesling_italico,"['WELSCHRIESLING', 'RIESLING']"
+"Il vino che si ottiene dal vitigno Riesling Renano è di colore Giallo paglierino . Al palato è fresco , Floreale , Aromatico .",B,RIESLING RENANO,riesling_renano,"['RHEINRIESLING', 'RIESLING']"
+,B,RIPOLO,ripolo,
+,B,ROLLO,rollo,
+"Il vino che si ottiene dal vitigno Rondinella è di colore Rosso rubino . Al palato è caldo , sapido , Fruttato .",N,RONDINELLA,rondinella,
+,,RONDINELLA Rs.,rondinella_rs_,
+,,ROSCIOLA Rs.,rosciola_rs_,
+,,ROSONADU Rs.,rosonadu_rs_,
+,N,ROSSARA,rossara,
+,,ROSSELLA,rossella,
+"Il vino che si ottiene dal vitigno Rossese è di colore Rosso rubino . Al palato è Floreale , Speziato , di corpo .",N,ROSSESE,rossese,
+"Il vino che si ottiene dal vitigno Rossese bianco è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,ROSSESE BIANCO,rossese_bianco,
+,,ROSSETTA DI MONTAGNA Rs.,rossetta_di_montagna_rs_,
+"Il vino che si ottiene dal vitigno Rossignola è di colore Rosso rubino . Al palato è fresco , sapido , di corpo .",N,ROSSIGNOLA,rossignola,['ROSSETTA']
+"Il vino che si ottiene dal vitigno Rossola nera è di colore Rosso rubino . Al palato è fresco , di corpo .",N,ROSSOLA NERA,rossola_nera,['ROSSOLA']
+,N,ROSSONE,rossone,
+,B,ROUSSANE,roussane,
+,,ROUSSI,roussi,
+,N,ROUSSIN,roussin,
+,B,ROVIELLO,roviello,
+"Il vino che si ottiene dal vitigno Ruchè è di colore Rosso rubino . Al palato è caldo , Fruttato , Floreale , di corpo , morbido .",N,RUCHE',ruche_,
+,B,RUGGINE,ruggine,
+,N,RUSSIOLA,russiola,
+,B,RUZZESE,ruzzese,
+,N,S. GIUSEPPE NERO,s__giuseppe_nero,
+"Il vino che si ottiene dal vitigno S. Lunardo è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,S. LUNARDO,s__lunardo,
+,N,S. MARTINO,s__martino,
+,N,S. MICHELE,s__michele,
+,,SABATO,sabato,
+"Il vino che si ottiene dal vitigno Sagrantino è di colore Rosso rubino . Al palato è caldo , Fruttato , Speziato , tannico .",N,SAGRANTINO,sagrantino,
+,B,SAGRESTANA,sagrestana,
+"Il vino che si ottiene dal vitigno Saint Laurent è di colore Rosso rubino . Al palato è fresco , Fruttato , di corpo .",N,SAINT LAURENT,saint_laurent,
+,N,SALUDA E PASSA,saluda_e_passa,
+,N,SANFORTE,sanforte,
+"Il vino che si ottiene dal vitigno Sangiovese è di colore Rosso rubino . Al palato è caldo , Fruttato , tannico .",N,SANGIOVESE,sangiovese,"['SANGIOVETO', '(096) GRECHETTO ROSSO N.']"
+"Il vino che si ottiene dal vitigno Santa Maria è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,SANTA MARIA,santa_maria,
+,B,SANTA SOFIA,santa_sofia,
+,B,SANTA TERESA,santa_teresa,
+"Il vino che si ottiene dal vitigno Sauvignon è di colore Giallo paglierino . Al palato è sapido , Floreale , Erbaceo , Fruttato .",B,SAUVIGNON,sauvignon,['SAUVIGNON BLANC']
+,B,SAUVIGNON KRETOS,sauvignon_kretos,['UD-76.026']
+,B,SAUVIGNON NEPIS,sauvignon_nepis,['UD-55.098']
+,B,SAUVIGNON RYTOS,sauvignon_rytos,['UD-55.100']
+,B,SCARSAFOGLIA,scarsafoglia,
+,N,SCHIAVA,schiava,['(419) ERBANNO N.']
+"Il vino che si ottiene dal vitigno Schiava gentile è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,SCHIAVA GENTILE,schiava_gentile,"['SCHIAVA', 'VERNATSCH', 'KLEINVERNATSCH', 'MITTERVERNATSCH']"
+"Il vino che si ottiene dal vitigno Schiava grigia è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,SCHIAVA GRIGIA,schiava_grigia,"['SCHIAVA', 'VERNATSCH', 'GRAUVERNATSCH']"
+"Il vino che si ottiene dal vitigno Schiava grossa è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,SCHIAVA GROSSA,schiava_grossa,"['EDELVERNATSCH', 'GROSSEVERNATSCH', 'SCHIAVA', 'VERNATSCH']"
+,B,SCHIOPPETTA,schioppetta,
+"Il vino che si ottiene dal vitigno Schioppettino è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,SCHIOPPETTINO,schioppettino,
+"Il vino che si ottiene dal vitigno Sciaglin è di colore Giallo paglierino . Al palato è secco , fresco , Floreale , Speziato .",B,SCIAGLIN,sciaglin,
+"Il vino che si ottiene dal vitigno Sciascinoso è di colore Rosso rubino . Al palato è Fruttato , tannico , di corpo .",N,SCIASCINOSO,sciascinoso,
+"Il vino che si ottiene dal vitigno Scimiscià è di colore Giallo paglierino . Al palato è sapido , Floreale , Fruttato , Minerale .",B,SCIMISCIA',scimiscia_,
+,B,SELEZIONE VEDELE,selezione_vedele,
+"Il vino che si ottiene dal vitigno Semidano è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,SEMIDANO,semidano,
+"Il vino che si ottiene dal vitigno Sémillon è di colore Giallo paglierino . Al palato è sapido , Floreale , Fruttato , fresco .",B,SEMILLON,semillon,
+"Il vino che si ottiene dal vitigno Sennen è di colore Rosso rubino . Al palato è Fruttato , tannico , di corpo .",N,SENNEN,sennen,
+,N,SERBINA,serbina,['(246) TURCA N.']
+,N,SEVAR,sevar,
+"Il vino che si ottiene dal vitigno Sgavetta è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,SGAVETTA,sgavetta,
+,B,SGRANARELLA,sgranarella,
+,B,SINNIDANU,sinnidanu,
+,B,SIRIO,sirio,
+,N,SLARINA,slarina,
+"Il vino che si ottiene dal vitigno Solaris è di colore Giallo paglierino , Giallo dorato . Al palato è fresco , sapido , leggero .",B,SOLARIS,solaris,
+,N,SOMARELLO ROSSO,somarello_rosso,
+,N,SOPERGA,soperga,
+,N,SORANTONIO,sorantonio,
+,B,SORELI,soreli,['UD-34.113']
+"Il vino che si ottiene dal vitigno Souvignier gris è di colore Giallo paglierino con riflessi verdolini . Al palato è fresco , Fruttato .",B,SOUVIGNIER GRIS,souvignier_gris,
+"Il vino che si ottiene dal vitigno Spergola è di colore Giallo paglierino . Al palato è fresco , Floreale , Fruttato , persistente .",B,SPERGOLA,spergola,
+,N,SPIGAMONTI,spigamonti,
+,,SUPPEZZA,suppezza,
+"Il vino che si ottiene dal vitigno Susumaniello è di colore Rosso rubino . Al palato è fresco , Fruttato , Erbaceo , tannico .",N,SUSUMANIELLO,susumaniello,['SUSSUMARIELLO']
+"Il vino che si ottiene dal vitigno Sylvaner verde è di colore Giallo paglierino . Al palato è fresco , caratteristico .",B,SYLVANER VERDE,sylvaner_verde,"['GRUNER SYLVANER ; SILVANER', 'SYLVANER']"
+"Il vino che si ottiene dal vitigno Syrah è di colore Rosso rubino . Al palato è secco , di corpo , tannico , Fruttato , Floreale .",N,SYRAH,syrah,['SHIRAZ']
+"Il vino che si ottiene dal vitigno Tannat è di colore Rosso granato . Al palato è Fruttato , Speziato , tannico , di corpo .",N,TANNAT,tannat,
+"Il vino che si ottiene dal vitigno Tazzelenghe è di colore Rosso rubino . Al palato è secco , sapido , tannico , di corpo .",N,TAZZELENGHE,tazzelenghe,
+"Il vino che si ottiene dal vitigno Tempranillo è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,TEMPRANILLO,tempranillo,
+,,TENNECCHIA,tennecchia,
+,N,TERMANTIS,termantis,['F22P09 N.']
+,N,TERMARINA,termarina,
+"Il vino che si ottiene dal vitigno Teroldego è di colore Rosso rubino . Al palato è Fruttato , Floreale , tannico .",N,TEROLDEGO,teroldego,
+"Il vino che si ottiene dal vitigno Terrano è di colore Rosso rubino . Al palato è fresco , Fruttato , tannico .",N,TERRANO,terrano,"['CAGNINA', 'TERAN', 'LAMBRUSCO DAL PEDUNCOLO ROSSO', 'REFO?K']"
+,,TESOLA NERA,tesola_nera,
+"Il vino che si ottiene dal vitigno Timorasso è di colore Giallo paglierino . Al palato è Fruttato , di corpo .",B,TIMORASSO,timorasso,
+"Il vino che si ottiene dal vitigno Tintilia è di colore Rosso rubino . Al palato è caldo , Erbaceo , Fruttato , tannico .",N,TINTILIA,tintilia,
+"Il vino che si ottiene dal vitigno Tintore è di colore Rosso rubino . Al palato è Fruttato , Speziato , tannico .",N,TINTORE,tintore,
+,N,TINTORIA,tintoria,
+"Il vino che si ottiene dal vitigno Tocai Friulano è di colore Giallo paglierino . Al palato è secco , Fruttato .",B,TOCAI FRIULANO,tocai_friulano,"['FRIULANO', 'TAI', ""TUCHI'""]"
+,,"TOCAI FRIULANO B,",tocai_friulano_b_,
+"Il vino che si ottiene dal vitigno Tocai rosso è di colore Rosso rubino . Al palato è Fruttato , Rosso rubino .",N,TOCAI ROSSO,tocai_rosso,"['(10) ALICANTE N.', '(51) CANNONAU N.', 'CANNONAO', 'GARNACHA TINTA', 'GRANACCIA', 'GRENACHE', 'TAI ROSSO']"
+"Il vino che si ottiene dal vitigno Torbato è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,TORBATO,torbato,
+"Il vino che si ottiene dal vitigno Touriga Nacional è di colore Rosso rubino . Al palato è Fruttato , di corpo , tannico .",,TOURIGA NACIONAL,touriga_nacional,
+,,TRAMINER AROMATICO Rs.,traminer_aromatico_rs_,['GEWURZTRAMINER']
+,B,TREBBIANINA,trebbianina,
+"Il vino che si ottiene dal vitigno Trebbiano Abruzzese è di colore Giallo paglierino . Al palato è Fruttato , Floreale , Minerale .",B,TREBBIANO ABRUZZESE,trebbiano_abruzzese,
+"Il vino che si ottiene dal vitigno Trebbiano di Soave è di colore Giallo paglierino . Al palato è fresco , Fruttato , Floreale , Minerale .",B,TREBBIANO DI SOAVE,trebbiano_di_soave,"['(254) VERDICCHIO BIANCO B.', 'TURBIANA', 'TREBBIANO DI LUGANA']"
+,,"TREBBIANO DI SOAVE B,",trebbiano_di_soave_b_,
+"Il vino che si ottiene dal vitigno Trebbiano giallo è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,TREBBIANO GIALLO,trebbiano_giallo,"['ROSSETTO', 'TREBBIANO']"
+,B,TREBBIANO MODENESE,trebbiano_modenese,
+"Il vino che si ottiene dal vitigno Trebbiano Romagnolo è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,TREBBIANO ROMAGNOLO,trebbiano_romagnolo,
+"Il vino che si ottiene dal vitigno Trebbiano Spoletino è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,TREBBIANO SPOLETINO,trebbiano_spoletino,
+"Il vino che si ottiene dal vitigno Trebbiano Toscano è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,TREBBIANO TOSCANO,trebbiano_toscano,"['(025) BIANCAME B.', 'PROCANICO', 'UGNI BLANC']"
+,N,TREVISANA NERA,trevisana_nera,
+,N,TRONTO,tronto,
+,N,TSCHAGGELE,tschaggele,
+,N,TURCA,turca,['(433) SERBINA N.']
+"Il vino che si ottiene dal vitigno Turchetta è di colore Rosso rubino . Al palato è Fruttato , Floreale , Speziato , tannico .",N,TURCHETTA,turchetta,
+"Il vino che si ottiene dal vitigno Ucelut è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,UCELUT,ucelut,
+,N,USIRIOTO,usirioto,
+,N,UVA DEL FANTINI,uva_del_fantini,
+,N,UVA DEL TUNDE',uva_del_tunde_,
+"Il vino che si ottiene dal vitigno Uva di Troia è di colore Rosso rubino . Al palato è caldo , Fruttato , Speziato , di corpo .",N,UVA DI TROIA,uva_di_troia,"['SUMARELLO', 'SOMMARRELLO', 'NERO DI TROIA']"
+,N,UVA GIULIA,uva_giulia,
+"Il vino che si ottiene dal vitigno Uva Longanesi è di colore Rosso rubino . Al palato è Fruttato , tannico , di corpo .",N,UVA LONGANESI,uva_longanesi,
+,N,UVA RARA,uva_rara,
+,N,UVA TOSCA,uva_tosca,
+,,UVA URMO,uva_urmo,
+,N,UVALINO,uvalino,
+"Il vino che si ottiene dal vitigno Valentino è di colore Rosso rubino . Al palato è di medio corpo , abbastanza tannico , caldo .",N,VALENTINO,valentino,
+,B,VALNOSIA,valnosia,['F26P92 B.']
+,B,VEGA,vega,
+"Il vino che si ottiene dal vitigno Veltliner è di colore Giallo verdolino . Al palato è Fruttato , Floreale , Speziato .",B,VELTLINER,veltliner,['GRUNER VELTLINER']
+"Il vino che si ottiene dal vitigno Verdea è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,VERDEA,verdea,['COLOMBANA BIANCA']
+,B,VERDEALBARA,verdealbara,['(418) ERBAMAT']
+"Il vino che si ottiene dal vitigno Verdeca è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,VERDECA,verdeca,['(179) PAMPANUTO B.']
+"Il vino che si ottiene dal vitigno Verdejo è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,VERDEJO,verdejo,
+"Il vino che si ottiene dal vitigno Verdello è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,VERDELLO,verdello,"['(254) VERDICCHIO BIANCO B.', '(297) VERDUSCHIA B.']"
+"Il vino che si ottiene dal vitigno Verdese è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido .",B,VERDESE,verdese,
+,B,VERDICCHIO BIANCO,verdicchio_bianco,"['TREBBIANO DI LUGANA', '(239) TREBBIANO DI SOAVE B.', '(253) VERDELLO B.', '(297) VERDUSCHIA', 'PEVERELLA', 'TREBBIANO VERDE']"
+"Il vino che si ottiene dal vitigno Verdiso è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,VERDISO,verdiso,
+,B,VERDUSCHIA,verduschia,"['(253) VERDELLO B.', '(254) VERDICCHIO BIANCO B.']"
+"Il vino che si ottiene dal vitigno Verduzzo Friulano è di colore Giallo paglierino , Foxy . Al palato è Fruttato , persistente .",B,VERDUZZO FRIULANO,verduzzo_friulano,
+"Il vino che si ottiene dal vitigno Verduzzo Trevigiano è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,VERDUZZO TREVIGIANO,verduzzo_trevigiano,
+"Il vino che si ottiene dal vitigno Vermentino è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,VERMENTINO,vermentino,"['(190) PIGATO B.', '(80) FAVORITA B.']"
+"Il vino che si ottiene dal vitigno Vermentino nero è di colore Rosso rubino . Al palato è Fragrante , Fruttato , di corpo .",N,VERMENTINO NERO,vermentino_nero,
+"Il vino che si ottiene dal vitigno Vernaccia di Oristano è di colore Giallo paglierino . Al palato è caldo , secco , Etereo .",B,VERNACCIA DI ORISTANO,vernaccia_di_oristano,
+,B,VERNACCIA DI S. GIMIGNANO,vernaccia_di_s__gimignano,['(024) BERVEDINO B.']
+"Il vino che si ottiene dal vitigno Vernaccia nera è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,VERNACCIA NERA,vernaccia_nera,['VERNACCIA']
+,N,VERNACCIA NERA GROSSA,vernaccia_nera_grossa,
+,B,VERNACCINA,vernaccina,
+,B,VERSOALEN,versoalen,
+"Il vino che si ottiene dal vitigno Veruccese è di colore Rosso rubino . Al palato è fine , leggero , armonico .",N,VERUCCESE,veruccese,
+"Il vino che si ottiene dal vitigno Vespaiola è di colore Giallo paglierino . Al palato è Fruttato , Floreale , sapido , fresco .",B,VESPAIOLA,vespaiola,['VESPAIOLO']
+"Il vino che si ottiene dal vitigno Vespolina è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,VESPOLINA,vespolina,['UGHETTA']
+"Il vino che si ottiene dal vitigno Vien de Nus è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,VIEN DE NUS,vien_de_nus,
+"Il vino che si ottiene dal vitigno Viognier è di colore Giallo paglierino . Al palato è fresco , sapido , Fruttato .",B,VIOGNIER,viognier,
+,,VIOSINHO,viosinho,
+,B,VIRGILIO,virgilio,
+,B,VITOUSKA,vitouska,"['GARGANJA', 'VITOVSKA']"
+,N,VITRAROLO,vitrarolo,
+,,VODORIN,vodorin,
+,N,VOLTURNIS,volturnis,
+"Il vino che si ottiene dal vitigno Vuillermin è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,VUILLERMIN,vuillermin,
+"Il vino che si ottiene dal vitigno Wildbacher è di colore Rosso rubino . Al palato è Fruttato , Speziato , di medio corpo .",N,WILDBACHER,wildbacher,
+"Il vino che si ottiene dal vitigno Xinomavro è di colore Rosso rubino . Al palato è intenso , persistente , Fruttato , Speziato , tannico .",,XINOMAVRO,xinomavro,
+"Il vino che si ottiene dal vitigno Zibibbo è di colore Giallo paglierino . Al palato è Aromatico , Fruttato , Speziato .",B,ZIBIBBO,zibibbo,"['MOSCATO D ALESSANDRIA', 'DURACA', 'MOSCATO', 'MOSCATELLO', 'MOSCATELLONE']"
+,B,ZIMELLONE BIANCO,zimellone_bianco,['SIROCCHIA']
+"Il vino che si ottiene dal vitigno Zweigelt è di colore Rosso rubino . Al palato è sapido , Fruttato , tannico .",N,ZWEIGELT,zweigelt,
